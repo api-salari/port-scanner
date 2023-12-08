@@ -2,8 +2,11 @@
 
 A simple port scanner with Python!
 
-## Install.
+# **Termux.**
 '''
-git clone 
-prit
+pkg install git
+pkg install python3
+git clone https://github.com/api-salari/port-scanner
+python3 port-scaner.py
+
 '''
